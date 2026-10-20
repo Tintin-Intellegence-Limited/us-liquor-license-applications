@@ -1,0 +1,421 @@
+filed,metro,city,name,street,type
+2026-10-16,dallas-fort-worth,Fort Worth,Fahrenheit,Currie St,bar
+2026-10-16,dallas-fort-worth,Plano,Kimiya Japanese Cuisine,N Central Expy,bar
+2026-10-16,houston,Houston,El Rinconcito Latino,Telephone Rd,bar
+2026-10-16,houston,Houston,The Phoenix On Westheimer,Westheimer Rd,bar
+2026-10-16,houston,Waller,Restaurant El Tejas Mexican Bar & Grill #4,Highway 290 Business,restaurant
+2026-10-16,new-york,Brooklyn,Kings Athletic Club,Hicks St,bar
+2026-10-16,new-york,New York,Fellini,Thompson St,restaurant
+2026-10-15,austin,Austin,All Good Things Studio,E Cesar Chavez St,bar
+2026-10-15,dallas-fort-worth,Arlington,Mosaic Moments,N West St,restaurant
+2026-10-15,dallas-fort-worth,Arlington,Umi Buffet Of Arlington,S Cooper St,restaurant
+2026-10-15,dallas-fort-worth,Dallas,June's,Hi Line Dr,bar
+2026-10-15,houston,Houston,Ductwork Houston,St Emanuel St,bar
+2026-10-15,houston,Katy,Casa Fuego Latin Fusion,Katy Fort Bend Rd,bar
+2026-10-15,los-angeles,Los Angeles,Toyo Toyo Hospitality Group,S Motor Ave,restaurant
+2026-10-15,new-york,New York,Rudy's Bar & Grill,9th Ave,bar
+2026-10-15,san-antonio,San Antonio,Taqueria Data Point,Canyon Golf Rd,restaurant
+2026-10-14,dallas-fort-worth,Carrollton,De Phosho,Hwy 121 Ste 228,restaurant
+2026-10-14,los-angeles,Woodland Hills,The Variel Of Woodland Hills,Variel Ave,restaurant
+2026-10-14,new-york,Bronx,Equis Pica Pollo De Verdad,Mlk Jr Boulevard,restaurant
+2026-10-14,new-york,Bronx,Rey Tacos,Melrose Avenue,restaurant
+2026-10-14,new-york,Bronx,Roscoe Brown Cafeteria,University Avenue,restaurant
+2026-10-14,new-york,Brooklyn,Anna Bella Pizza Cafe,3 Avenue,restaurant
+2026-10-14,new-york,Brooklyn,Kampos Taverna,3Rd Ave,restaurant
+2026-10-14,new-york,Brooklyn,Nori Bar,13Th Ave,restaurant
+2026-10-14,new-york,Manhattan,Caggiano's Pizza,West   14 Street,restaurant
+2026-10-14,new-york,Manhattan,Five Guys,Canal Street,restaurant
+2026-10-14,new-york,Manhattan,Frenchette Bakery,Broome Street,restaurant
+2026-10-14,new-york,Manhattan,Hots Pizza,East Broadway,restaurant
+2026-10-14,new-york,Manhattan,Oriana,Mott Street,restaurant
+2026-10-14,new-york,Manhattan,Rokstar Chicken,East    8 Street,restaurant
+2026-10-14,new-york,Queens,Barry's Lic,Jackson Avenue,restaurant
+2026-10-14,new-york,Queens,Chahalo,Prince Street,coffee shop
+2026-10-14,new-york,Queens,Hot's Coffee,61-26B Cooper Avenue,restaurant
+2026-10-14,new-york,Queens,Queens College Main Dining Hall,Kissena Boulevard,restaurant
+2026-10-14,new-york,Staten Island,3 Bites,Osgood Avenue,restaurant
+2026-10-13,dallas-fort-worth,Dallas,Ebesu Sushi&Bar,N Haskell Ave,restaurant
+2026-10-13,dallas-fort-worth,Frisco,Yummy Crab,Stonebrook Pkwy,bar
+2026-10-13,dallas-fort-worth,Garland,Salon Monte Carlo,S Jupiter Rd,restaurant
+2026-10-13,houston,Houston,Ilmejung Dokdo,Long Point Rd,bar
+2026-10-13,houston,Houston,Juju Cafe & Bar,Briar Ridge Dr,restaurant
+2026-10-13,houston,Houston,Tacos Frontera,Katy Fwy,bar
+2026-10-13,houston,Montgomery,Azul Cocktail Lounge,W FM 1097 Rd,bar
+2026-10-13,houston,Pasadena,Panthers 47,Fairmont Pkwy,restaurant
+2026-10-13,los-angeles,La Puente,Pescaderia Y Mariscos #2 Esquer Rios,Amar Rd,restaurant
+2026-10-13,los-angeles,Studio City,Big Daddy's Shawarma Big Daddy's Shawarma,Ventura Blvd,restaurant
+2026-10-13,new-york,Brooklyn,Bk Halal Grill,Park Avenue,restaurant
+2026-10-13,new-york,Brooklyn,Sweetness Usa,Coney Island Avenue,restaurant
+2026-10-13,new-york,Manhattan,Citypickle Times Square,Broadway,restaurant
+2026-10-13,new-york,Manhattan,Coffee Project New York,Washington Street,coffee shop
+2026-10-13,new-york,Manhattan,Dim Sum Palace,West   56 Street,restaurant
+2026-10-13,new-york,Manhattan,Naisnow Tea & Bakery,West   42 Street,coffee shop
+2026-10-13,new-york,Manhattan,Pure Poke,3 Avenue,restaurant
+2026-10-13,new-york,Manhattan,San Babila Cafe,3 Avenue,restaurant
+2026-10-13,new-york,Manhattan,Thai Pavilion,West   56 Street,restaurant
+2026-10-13,new-york,Manhattan,Two Sisters,1 Avenue,coffee shop
+2026-10-13,new-york,New York,Annam Tan Jaad,E 33rd St,restaurant
+2026-10-13,new-york,Staten Island,Popeyes,Richmond Avenue,restaurant
+2026-10-13,san-antonio,Saint Hedwig,The Blockhouse,Farm to Market 1346,restaurant
+2026-10-13,san-antonio,San Antonio,Mariscos El Pirata #2,N Zarzamora St,restaurant
+2026-10-12,houston,Houston,The Park,Leeland St,bar
+2026-10-12,new-york,Queens,Sugardaddy's Gentlemen's Club,27 Street,restaurant
+2026-10-11,new-york,Manhattan,5S (Fives),Avenue B,restaurant
+2026-10-11,new-york,Manhattan,Cakes By Klein,Saint Marks Place,restaurant
+2026-10-11,new-york,Manhattan,Corner Bistro East,Avenue A,restaurant
+2026-10-11,new-york,Manhattan,Horse With No Name,East    5 Street,restaurant
+2026-10-10,new-york,Brooklyn,Crafted Halal,Bushwick Avenue,restaurant
+2026-10-10,new-york,Brooklyn,Hank's,Bushwick Avenue,restaurant
+2026-10-10,new-york,Brooklyn,Jannat Aden Restaurant,Avenue Z,restaurant
+2026-10-09,houston,Houston,Dan Electro's,E 24th St,bar
+2026-10-09,houston,La Porte,Mini Arcade,Highway 146 S,restaurant
+2026-10-09,new-york,Bronx,Jamaica Fry Chicken,White Plains Road,restaurant
+2026-10-09,new-york,Brooklyn,Janet's Pizza,4 Avenue,restaurant
+2026-10-09,new-york,Brooklyn,Krausshaus,South    6 Street,restaurant
+2026-10-09,new-york,Brooklyn,La Petite Joie,Union Avenue,restaurant
+2026-10-09,new-york,Jamaica,Gotham Burger Social Club,JFK International Airport,restaurant
+2026-10-09,new-york,Manhattan,Skinny Louie,Carmine Street,restaurant
+2026-10-09,new-york,Manhattan,Utopia Bagels,3 Avenue,restaurant
+2026-10-09,new-york,New York,Idaho,E 13th St,bar
+2026-10-09,new-york,New York,Jiho,W 17th St,restaurant
+2026-10-09,new-york,New York,Whole Foods Market and Tsar Nicoulai Caviar Cafe,Avenue of the Americas Fl 2,restaurant
+2026-10-09,new-york,Queens,Kostantina Frozen Yogurt,Austin Street,restaurant
+2026-10-09,new-york,Queens,Notable,30 Avenue,restaurant
+2026-10-09,san-antonio,Cibolo,Sipit,Cibolo Valley Dr,restaurant
+2026-10-09,san-antonio,San Antonio,Datapoint Cantina & Cocina,U.S. Hwy 281 N,bar
+2026-10-09,san-antonio,San Antonio,El Guacamole Mexican Grill 4,W Hildebrand Ave,bar
+2026-10-08,dallas-fort-worth,Fort Worth,Musume Fort Worth,Houston St,bar
+2026-10-08,dallas-fort-worth,Fort Worth,Piattello,Convair Dr Ste 412,bar
+2026-10-08,houston,Fulshear,6519 Skyline Drive #600 Fulshear Texas 77441,Skyline Dr,bar
+2026-10-08,houston,Houston,Happy Hours Daiquiris,West Road,restaurant
+2026-10-08,new-york,Bronx,Noodle Craft,Exterior Street,restaurant
+2026-10-08,new-york,Brooklyn,Brooklyn Billiards,Troutman Street,restaurant
+2026-10-08,new-york,Brooklyn,East Wang,18 Avenue,restaurant
+2026-10-08,new-york,Brooklyn,Golden Capital Restaurant,11 Avenue,restaurant
+2026-10-08,new-york,Brooklyn,Good Taste Restaurant 168,50 Street,restaurant
+2026-10-08,new-york,Brooklyn,Jalopy Theatre,Columbia Street,restaurant
+2026-10-08,new-york,Brooklyn,L'Oranaise,5 Avenue,restaurant
+2026-10-08,new-york,Brooklyn,Rice & Bean Restaurant,4 Avenue,restaurant
+2026-10-08,new-york,Brooklyn,Sesilya,5th Ave,restaurant
+2026-10-08,new-york,Brooklyn,Surf City Pizzeria 2,65 Street,restaurant
+2026-10-08,new-york,Manhattan,Chick-Fil-A At Oculus Spc,Wtc 4 185 Greenwich St,restaurant
+2026-10-08,new-york,Manhattan,Clarke & Moore Bar And Kitchen,8 Avenue,restaurant
+2026-10-08,new-york,Manhattan,The Three Monkeys,8 Avenue,restaurant
+2026-10-08,new-york,New York,Burger X,W 42nd St,restaurant
+2026-10-08,new-york,Queens,Burger Spot,108 Street,restaurant
+2026-10-08,new-york,Queens,Lagman Lounge,Queens Boulevard,restaurant
+2026-10-08,new-york,Queens,Le Loup Cafe,Steinway Street,restaurant
+2026-10-08,new-york,Queens,Simple Peruvian,Greenpoint Avenue,restaurant
+2026-10-08,new-york,Queens,The Bier & Cheese Collective,Ditmars Boulevard,restaurant
+2026-10-07,austin,Austin,It's Italian Cucina,S Lamar Blvd,restaurant
+2026-10-07,austin,Austin,Mama Hono,E Riverside Dr suite H6,restaurant
+2026-10-07,austin,Austin,Sakura Sushi And Bar,Us-290,restaurant
+2026-10-07,austin,Pflugerville,Primetime Social Sports Bar & Grill,Fm1825,restaurant
+2026-10-07,new-york,Brooklyn,Cafe Aroma Y Sabor,4 Avenue,coffee shop
+2026-10-07,new-york,Brooklyn,La Bagel Delight,7 Avenue,restaurant
+2026-10-07,new-york,Brooklyn,Nam Po Bk,8 Avenue,restaurant
+2026-10-07,new-york,Brooklyn,Senzu Juice & Smoothies,Atlantic Avenue,restaurant
+2026-10-07,new-york,Brooklyn,Shashlik Uz N1,Ditmas Avenue,restaurant
+2026-10-07,new-york,Manhattan,Aon,Broadway,coffee shop
+2026-10-07,new-york,Manhattan,Apollo Bagels,Waverly Place,restaurant
+2026-10-07,new-york,Manhattan,Big Tots Little Tikes,Frederick Douglas Boulevard,restaurant
+2026-10-07,new-york,Manhattan,Buchette Del Vino (Pedestrian Plaza,West   44 Street,restaurant
+2026-10-07,new-york,Manhattan,Dim Sum Sam Deli & Bakery,Division Street,restaurant
+2026-10-07,new-york,Manhattan,Dim Sum Sam,East   23 Street,restaurant
+2026-10-07,new-york,Manhattan,Neuhaus,Columbus Avenue,coffee shop
+2026-10-07,new-york,Manhattan,Pastagasm,Macdougal Street,restaurant
+2026-10-07,new-york,Manhattan,Pita Yeero,Pearl Street,restaurant
+2026-10-07,new-york,Manhattan,Sakara Sushi & Poke (Std 5),Broadway,restaurant
+2026-10-07,new-york,Manhattan,West Bank Cafe,West   42 Street,restaurant
+2026-10-07,new-york,Queens,Cookies N' Cream,Austin Street,restaurant
+2026-10-07,new-york,Staten Island,Tavolina,26 28 Jefferson Blvd,restaurant
+2026-10-07,san-antonio,San Antonio,El Gallo De Oro Grill & Bar,South Flores St,bar
+2026-10-07,san-antonio,San Antonio,Sonterra Beverage,Sonterra Pl,bar
+2026-10-06,dallas-fort-worth,Dallas,W Davis Street Market,W Davis St,restaurant
+2026-10-06,dallas-fort-worth,Irving,Bar Louie 1707,Las Colinas Blvd. W.,restaurant
+2026-10-06,dallas-fort-worth,The Colony,Turbo Coffee Kitchen Wine,Windhaven Pkwy,restaurant
+2026-10-06,houston,Baytown,Vida Mariscos,East Fwy,bar
+2026-10-06,houston,Cypress,Roadstar #9,Fry RD Ste A,restaurant
+2026-10-06,houston,Houston,Rose Gold Gentlemen's Club,S Texas 6,bar
+2026-10-06,houston,The Woodlands,Bar Louie 1201,Waterway Ave,restaurant
+2026-10-06,new-york,Bronx,Smash Time Burger,East Tremont Avenue,restaurant
+2026-10-06,new-york,Brooklyn,27 Club Coffee,Adelphi Street,coffee shop
+2026-10-06,new-york,Brooklyn,99 Scott Studio,Scott Avenue,restaurant
+2026-10-06,new-york,Manhattan,Dawson 39,West   39 Street,restaurant
+2026-10-06,new-york,Manhattan,Grabie Art & Cafe,East   13 Street,coffee shop
+2026-10-06,new-york,Manhattan,Hampton Chutney Company,Astor Place,restaurant
+2026-10-06,new-york,Manhattan,Luckin Coffee,Bleecker Street,coffee shop
+2026-10-06,new-york,Manhattan,Rita's,9 Avenue,restaurant
+2026-10-06,new-york,Manhattan,Signature Theatre,West   42 Street,restaurant
+2026-10-06,new-york,Manhattan,Yue Dian Xuan,West   38 Street,restaurant
+2026-10-06,new-york,Queens,7Th Street Burger,Ditmars Boulevard,restaurant
+2026-10-06,new-york,Queens,Duck Donuts,190 Street,restaurant
+2026-10-06,new-york,Queens,Heytea,Crescent Street,restaurant
+2026-10-06,new-york,Queens,Magic Nutrition,108 Street,restaurant
+2026-10-06,new-york,Staten Island,Kennedy Fried Chicken,Broadway,restaurant
+2026-10-06,new-york,Whitestone,Cascarinos,10th Ave,restaurant
+2026-10-05,austin,Austin,Panciuto,Guadalupe St,restaurant
+2026-10-05,dallas-fort-worth,Dallas,Amela Dallas,Hi Line Dr,restaurant
+2026-10-05,houston,Houston,Anti-Social,Gulf Freeway,bar
+2026-10-05,houston,Houston,Sonesta Select Houston Iah Greenspoint,United Leuva Cir,bar
+2026-10-05,houston,Richmond,Thai Tale Eatery,Waterview Town Center Dr #100,restaurant
+2026-10-05,los-angeles,Northridge,Yamaha Sushi Yamaroll Sushi,Reseda Blvd,restaurant
+2026-10-05,los-angeles,San Fernando,Dirty Diabla Mariscos 3G,San Fernando Rd,restaurant
+2026-10-05,new-york,Bronx,Your Choice Halal Chicken & Pizza,White Plains Road,restaurant
+2026-10-05,new-york,Brooklyn,Pies 'N' Thighs,Flatbush Avenue,restaurant
+2026-10-05,new-york,Brooklyn,Pleasure Cafe & Restaurant,5 Avenue,restaurant
+2026-10-05,new-york,Brooklyn,Rick's Restaurant,Fulton Street,restaurant
+2026-10-05,new-york,Brooklyn,Wayne & Sons,Wythe Avenue,restaurant
+2026-10-05,new-york,Manhattan,Creative Concepts Nyc,Park Avenue,restaurant
+2026-10-05,new-york,Manhattan,El Puma,Madison Avenue,restaurant
+2026-10-05,new-york,Manhattan,Liberty Bagels,West   23 Street,restaurant
+2026-10-05,new-york,Manhattan,Paisa Picapollo,W 167Th St,restaurant
+2026-10-05,new-york,Manhattan,Poke Restaurant,East   85 Street,restaurant
+2026-10-05,new-york,Manhattan,Regular Nyc,Lafayette Street,restaurant
+2026-10-05,new-york,Manhattan,Spitfire Coffee & Sandwich,East   26 Street,restaurant
+2026-10-05,new-york,Manhattan,Tacos Heaven,Broadway,restaurant
+2026-10-05,new-york,Queens,Dock 3366,Farrington Street,restaurant
+2026-10-05,new-york,Queens,Gyro City,30 Avenue,restaurant
+2026-10-05,new-york,Queens,Mango Mango,Vernon Boulevard,restaurant
+2026-10-05,new-york,Queens,My Life Nutrition (Herbalife),30 Avenue,restaurant
+2026-10-05,new-york,Queens,Sushi-O,Vernon Boulevard,restaurant
+2026-10-05,new-york,Queens,Vaughn College Cafeteria,23 Avenue,restaurant
+2026-10-05,new-york,Staten Island,Dunkin Donuts,Richmond Avenue,restaurant
+2026-10-05,waco-temple,Temple,El Rancherito Family Kitchen,S. 1st Street,restaurant
+2026-10-03,dallas-fort-worth,Allen,Mexican Bar Company,Waverly Dr,bar
+2026-10-03,new-york,Brooklyn,Argo,Coney Island Avenue,restaurant
+2026-10-03,new-york,Queens,Chacha Bhatija Sweets & Snacks,Hillside Avenue,restaurant
+2026-10-03,new-york,Queens,Minitalia Pizzeria,Fresh Pond Rd,restaurant
+2026-10-02,dallas-fort-worth,Bedford,Backlot Car Guy's Tacos & More,Central Dr Ste 115,restaurant
+2026-10-02,dallas-fort-worth,Dallas,Padres Cocina,W. Wheatland Rd,bar
+2026-10-02,dallas-fort-worth,Dallas,Times Ten Cellars,Prospect Ave including 2018 Kidwell St,bar
+2026-10-02,new-york,Bronx,Cemitas Cholula Restaurant,Allerton Avenue,restaurant
+2026-10-02,new-york,Bronx,Kennedy Fried Chicken & Pizza,White Plains Road,restaurant
+2026-10-02,new-york,Brooklyn,Cali Tajadas Bakery,Bay Ridge Avenue,restaurant
+2026-10-02,new-york,Brooklyn,Kyan Cafe,5 Avenue,coffee shop
+2026-10-02,new-york,Brooklyn,Sofra,5th Ave,restaurant
+2026-10-02,new-york,Manhattan,Feng Shun Chang Kitchen,West  111 Street,restaurant
+2026-10-02,new-york,Manhattan,Inspired By La Fonda Nyc,East  106 Street,restaurant
+2026-10-02,new-york,Queens,Baby Cafe,37 Avenue,restaurant
+2026-10-02,new-york,Queens,Chianti Sports Bar & Restaurant/Sugar & Cake,37 Avenue,restaurant
+2026-10-02,new-york,Queens,Julieta Taberna,81 Street,restaurant
+2026-10-02,new-york,Queens,Royal Canton Seafood Palace,127 Street,restaurant
+2026-10-01,dallas-fort-worth,Dallas,Miya Chinese,Garland Road Suite 383 Building F,bar
+2026-10-01,dallas-fort-worth,Ponder,Los Compadres Cantina,N Fm 156,bar
+2026-10-01,houston,Conroe,Nana Soul Food,N Frazier St,bar
+2026-10-01,houston,Houston,Johnny's,FM 529 rd,restaurant
+2026-10-01,houston,New Caney,East Montgomery County Convention Center,Valley Ranch Pkwy,restaurant
+2026-10-01,new-york,Bronx,Socotra Restaurant,Morris Park Avenue,restaurant
+2026-10-01,new-york,Brooklyn,Guda,Emmons Avenue,restaurant
+2026-10-01,new-york,Brooklyn,Loco Cafe,Manhattan Avenue,coffee shop
+2026-10-01,new-york,Brooklyn,Luana's Tavern,Court Street,restaurant
+2026-10-01,new-york,Glendale,Isogood,Myrtle Ave,bar
+2026-10-01,new-york,Manhattan,La Piadineria,East   23 Street,restaurant
+2026-10-01,new-york,Manhattan,Lola La Marina,West  133 Street,restaurant
+2026-10-01,new-york,Manhattan,Maison Des Princes,East   53 Street,restaurant
+2026-10-01,new-york,Manhattan,Naya,Avenue Of The Americas,restaurant
+2026-10-01,new-york,Manhattan,Shelly's,Allen Street,coffee shop
+2026-10-01,new-york,Manhattan,Smashed Express,East   14 Street,restaurant
+2026-10-01,new-york,Manhattan,The Eighty Six,Bedford Street,restaurant
+2026-10-01,new-york,Manhattan,Upon The Palace,Greenwich Street,restaurant
+2026-10-01,new-york,Manhattan,W4 Noodle House,West    4 Street,restaurant
+2026-10-01,new-york,Manhattan,Yumpling,East   52 Street,restaurant
+2026-10-01,new-york,Queens,King River,31 Avenue,restaurant
+2026-10-01,new-york,Queens,Subways,Astoria Boulevard,restaurant
+2026-10-01,new-york,Queens,Wei Zhi Yuan,Northern Boulevard,restaurant
+2026-10-01,new-york,Queens,Yu Yue Long Men,Main Street,restaurant
+2026-09-30,austin,Austin,Deft Pies,Ranch Rd 620 N,bar
+2026-09-30,austin,Pflugerville,New Vibes - Pflugerville (Mod Pizza),Limestone Commercial Dr,restaurant
+2026-09-30,dallas-fort-worth,Carrollton,Soomi Kitchen,Mac Arthur Dr,bar
+2026-09-30,dallas-fort-worth,Plano,Ivory,Dallas Pkwy,bar
+2026-09-30,new-york,Bronx,Santinos Slices And Italian Ices,Boston Road,restaurant
+2026-09-30,new-york,Brooklyn,Chow Time,Mermaid Avenue,restaurant
+2026-09-30,new-york,Manhattan,1.50 Fresh Pizza,Chambers Street,restaurant
+2026-09-30,new-york,Manhattan,Chobani (Unit-42436010),Beach Street,restaurant
+2026-09-30,new-york,Manhattan,Hyun,East   33 Street,restaurant
+2026-09-30,new-york,Manhattan,Justin's Salt Bread,2 Avenue,restaurant
+2026-09-30,new-york,Manhattan,Kaffe Are,Greenwich Street,coffee shop
+2026-09-30,new-york,Manhattan,Linda's At Madison,East   92 Street,restaurant
+2026-09-30,new-york,Manhattan,Nomad,Church Street,restaurant
+2026-09-30,new-york,Manhattan,Pokeme/Gong Cha,Lexington Avenue,restaurant
+2026-09-30,new-york,Manhattan,Roast,East   40 Street,coffee shop
+2026-09-30,new-york,Staten Island,Semsemshawaram,Bay Street,restaurant
+2026-09-30,san-antonio,Bulverde,Vine In The Village,Bulverde Rd,restaurant
+2026-09-30,san-antonio,San Antonio,Broken Egg Cafe,Bandera Rd Ste 105,bar
+2026-09-30,waco-temple,Belton,The Beltonian Theatre,E Central Ave,restaurant
+2026-09-30,waco-temple,Buckholts,Oak Club,N Fm 486,restaurant
+2026-09-29,austin,Austin,Palace Laundry,Rainey St,bar
+2026-09-29,austin,Thorndale,Hare Wedding Event Center,Fm 1063,restaurant
+2026-09-29,dallas-fort-worth,Haltom City,Yin Dee,NE Loop 820,bar
+2026-09-29,dallas-fort-worth,Kennedale,Botanas Lokas,W Kennedale Pkwy,restaurant
+2026-09-29,houston,Houston,A3 Fuels #41,Main St,restaurant
+2026-09-29,houston,Houston,Unforgettable Kitchen And Cocktails,Washington Ave,restaurant
+2026-09-29,houston,Katy,Pf Chang's China Bistro (#9707),Katy Mills Cir,bar
+2026-09-29,los-angeles,Santa Clarita,Newhall Refinery Mdg Restaurant Group 24407-09 Main St,Main St,restaurant
+2026-09-29,new-york,Bronx,Kennedy Chicken,East  149 Street,restaurant
+2026-09-29,new-york,Bronx,Orion's,Tillotson Ave,restaurant
+2026-09-29,new-york,Brooklyn,Ants Coffee Williamsburg,102B Broadway,bar
+2026-09-29,new-york,Brooklyn,Leanly Ii Chinese Food,Mermaid Avenue,restaurant
+2026-09-29,new-york,Brooklyn,Miss Bagel,Fulton Street,restaurant
+2026-09-29,new-york,Brooklyn,Sabor Gustoso,Fulton Street,restaurant
+2026-09-29,new-york,Manhattan,Coffee T Bagels,10 Avenue,coffee shop
+2026-09-29,new-york,Manhattan,Deli Delights,Avenue A,restaurant
+2026-09-29,new-york,Manhattan,Desi Flavors Deli,9 Avenue,restaurant
+2026-09-29,new-york,Manhattan,Gong Cha,West   32 Street,coffee shop
+2026-09-29,new-york,Manhattan,Haagen-Dazs,7 Avenue,restaurant
+2026-09-29,new-york,Manhattan,Kim's Kimbap,6 Avenue,restaurant
+2026-09-29,new-york,New York,Sardi's,W 44th St,restaurant
+2026-09-29,new-york,Queens,Hao Fu Men Bbq,149 Place,restaurant
+2026-09-29,new-york,Queens,Live Frog,Parsons Boulevard,restaurant
+2026-09-29,new-york,Queens,Madame Sousou,33 Street,restaurant
+2026-09-29,new-york,Queens,Om Wok,36 Avenue,restaurant
+2026-09-29,new-york,Staten Island,East Hana Resturant,Akron Street,restaurant
+2026-09-29,san-antonio,San Antonio,Blue Moon Tex Mex Cafe & Bar #1,S Flores,bar
+2026-09-29,san-antonio,San Antonio,La Cabra Grill And Sports Cantina,Sh 151 Ste 102,bar
+2026-09-29,san-antonio,San Antonio,Quetxas,Blanco Rd,restaurant
+2026-09-29,san-antonio,San Antonio,Taqueria Jalisco #9,West Ave,restaurant
+2026-09-29,san-antonio,San Antonio,The Landing Point Bar And Grill,S General McMullen,bar
+2026-09-29,san-antonio,Seguin,Texstop,W I-10,restaurant
+2026-09-28,austin,Austin,Dos Batos Tacos,W Anderson Ln.,restaurant
+2026-09-28,austin,Austin,Nupa,Burnet Rd,bar
+2026-09-28,austin,San Marcos,Hat Creek Burger Company,S Ih 35,bar
+2026-09-28,houston,Houston,Privilege Houston,Anita St,restaurant
+2026-09-28,houston,Houston,Sin Yolanda,Washington Ave,restaurant
+2026-09-28,houston,Humble,Mambo Seafood,Farm to Market 1960 Bypass Rd W,restaurant
+2026-09-28,new-york,Bronx,July`S Rotisserie Restaurant,White Plains Road,restaurant
+2026-09-28,new-york,Brooklyn,Good Well Delicious,8 Avenue,restaurant
+2026-09-28,new-york,Brooklyn,Guac Time,Jay Street,restaurant
+2026-09-28,new-york,Brooklyn,Huangqi Fish Balls,Fort Hamilton Parkway,restaurant
+2026-09-28,new-york,Brooklyn,Jeffrey's Pizzeria,Wyckoff Avenue,restaurant
+2026-09-28,new-york,Brooklyn,Life Time,Flatbush Avenue Ext,bar
+2026-09-28,new-york,Brooklyn,Luigi's Pizza,Brighton Beach Avenue,restaurant
+2026-09-28,new-york,Manhattan,Alma Mexicana,East    3 Street,restaurant
+2026-09-28,new-york,Manhattan,Anar,Amsterdam Avenue,restaurant
+2026-09-28,new-york,Manhattan,El Barrio Nyc,East  111 Street,restaurant
+2026-09-28,new-york,Manhattan,Marlow East,Lexington Avenue,restaurant
+2026-09-28,new-york,Manhattan,Modern  Bread & Bagel,Duane Street,restaurant
+2026-09-28,new-york,Manhattan,Sunset Restaurant,East  104 Street,restaurant
+2026-09-28,new-york,Manhattan,Van Leeuwen Ice Cream,Madison Avenue,restaurant
+2026-09-28,new-york,New York,Bistrot 3 Toros,2nd Ave,restaurant
+2026-09-28,new-york,Queens,Duro Market,34 Street,restaurant
+2026-09-28,new-york,Queens,Mochi And Cream,Steinway Street,restaurant
+2026-09-28,new-york,Queens,Pizza Veloce,36 Avenue,restaurant
+2026-09-27,austin,Georgetown,Schulzy's,NE Inner Loop #3105,restaurant
+2026-09-26,houston,Houston,Houston Interactive Aquarium & Animal Preserve,N Sam Houston Pkwy E,bar
+2026-09-25,austin,Austin,Padel Society,E Stassney Ln,bar
+2026-09-25,austin,Georgetown,Mikey V's Tacos On The Square,W 8Th St,restaurant
+2026-09-25,dallas-fort-worth,Dallas,Blvd Social,Gulden Ln,restaurant
+2026-09-25,dallas-fort-worth,Fort Worth,Eskimo Hut,NE 28th St,restaurant
+2026-09-25,dallas-fort-worth,North Richland Hills,La Madeleine,Mid Cities Blvd,restaurant
+2026-09-25,dallas-fort-worth,River Oaks,Italianos,River Oaks Blvd,restaurant
+2026-09-25,houston,Houston,55 Seventy Houston,Richmond Ave,restaurant
+2026-09-25,houston,Houston,Jokers Of Houston,Almeda Rd,bar
+2026-09-25,houston,Montgomery,Cattle Co Cantina,Pooles Rd,restaurant
+2026-09-25,houston,Tomball,Boomerjack's Grill And Bar,N Grand Parkway W,bar
+2026-09-25,los-angeles,Los Angeles,The Fig House,N Figueroa St,restaurant
+2026-09-25,new-york,Astoria,Noche De Margaritas,Steinway St,restaurant
+2026-09-25,new-york,Brooklyn,Cafe Chocolat Bk,Avenue J,restaurant
+2026-09-25,new-york,Brooklyn,Starr Allo,Church Avenue,restaurant
+2026-09-25,new-york,Brooklyn,Tequila Y Sal,3 Avenue,restaurant
+2026-09-25,new-york,Jamaica,QNS Burgers and Bar,JFK International Airport Term 1 Unit C270,bar
+2026-09-25,new-york,Manhattan,583 Park Avenue,Park Ave,restaurant
+2026-09-25,new-york,Manhattan,El Califa De Leon,West   23 Street,restaurant
+2026-09-24,austin,Austin,Glou Glou Eastside Terrace,Allen Street,restaurant
+2026-09-24,austin,Kyle,The Toasted Yolk Cafe,Heroes Memorial Dr,restaurant
+2026-09-24,dallas-fort-worth,Ft Worth,Murray's Irish Pub,South Main Street,bar
+2026-09-24,dallas-fort-worth,Mckinney,Ghazal Lounge,S Custer Rd Ste 1110,bar
+2026-09-24,dallas-fort-worth,The Colony,The Chefs Grind,Windhaven Pkwy,bar
+2026-09-24,dallas-fort-worth,White Settlement,Arroyo Authentic Mexican Food,S Cherry Lane,bar
+2026-09-24,houston,Kingwood,Outpost Market 1,Northpark Dr,restaurant
+2026-09-24,houston,Richmond,Rich C Store,Fm 1464,restaurant
+2026-09-24,houston,Rosenberg,Taqueria Y Pupuseria Azteca,Avenue H,restaurant
+2026-09-24,houston,Spring,Backyard Cantina,Main St,restaurant
+2026-09-24,new-york,Bronx,Tijuana Tequila Kitchen,Westchester Avenue,restaurant
+2026-09-24,new-york,Brooklyn,A Taste Of Seafood,Broadway,restaurant
+2026-09-24,new-york,Brooklyn,Broadway On Ocean,Ocean Avenue,restaurant
+2026-09-24,new-york,Brooklyn,Den Of Splendor,Albany Avenue,restaurant
+2026-09-24,new-york,Brooklyn,Exit 9,Knapp Street,restaurant
+2026-09-24,new-york,Brooklyn,Halal N Out,Flatbush Avenue,restaurant
+2026-09-24,new-york,Brooklyn,Hot Wings & Pizza,Dekalb Avenue,restaurant
+2026-09-24,new-york,Brooklyn,I Cavallini,Grand Street,restaurant
+2026-09-24,new-york,Brooklyn,L'Angolo Di Palermo,3 Avenue,restaurant
+2026-09-24,new-york,Brooklyn,Pure Eats,Greenpoint Avenue,restaurant
+2026-09-24,new-york,Brooklyn,Sheer Bliss Taste,Avenue D,restaurant
+2026-09-24,new-york,Brooklyn,Triangle,S Elliott Pl,restaurant
+2026-09-24,new-york,Manhattan,Aangara 2 Indian Cuisine,West   29 Street,restaurant
+2026-09-24,new-york,Manhattan,Caffe Vento,West   38 Street,coffee shop
+2026-09-24,new-york,Manhattan,Fluffies Hot Chicken,Madison Avenue,restaurant
+2026-09-24,new-york,Manhattan,Golden Wok,Amsterdam Avenue,restaurant
+2026-09-24,new-york,Manhattan,L'Artista,Hamilton Place,restaurant
+2026-09-24,new-york,Manhattan,Som Bo,8 Avenue,restaurant
+2026-09-24,new-york,Manhattan,Yeero Greek Eatery,West   57 Street,restaurant
+2026-09-24,new-york,Queens,Ayat,Crescent Street,restaurant
+2026-09-24,new-york,Queens,Boathouse Rooftop,Steinway Street,restaurant
+2026-09-24,new-york,Queens,Cutty's Cafe,109 Avenue,restaurant
+2026-09-24,new-york,Queens,Teriyaki One,21-03A Broadway,restaurant
+2026-09-23,austin,Dripping Springs,Proper Ash,Drifting Wind Run,bar
+2026-09-23,dallas-fort-worth,Addison,Tucker Blu,Belt Line Rd,bar
+2026-09-23,dallas-fort-worth,Fort Worth,Brand Room,W Exchange Ave,bar
+2026-09-23,houston,Conroe,The Whistlestop Cafe,Interstate 45 S,bar
+2026-09-23,houston,Houston,255 N Sam Houston Parkway E Houston Tx 77060,N Sam Houston Pkwy E,bar
+2026-09-23,houston,Splendora,Stellar #5,Old Hwy 59N,restaurant
+2026-09-23,houston,Sugar Land,Suteki Bbq Steakhouse,Southwest Fwy,bar
+2026-09-23,new-york,Brooklyn,New Pho Number 1,86 Street,restaurant
+2026-09-23,new-york,Manhattan,Metropolis By Marcus Samuelsson,Fulton Street,restaurant
+2026-09-23,new-york,Manhattan,Ops,2 Avenue,restaurant
+2026-09-23,new-york,Manhattan,Pausa,Broome Street,restaurant
+2026-09-23,new-york,Manhattan,Punjabi Chaap Corner,Lexington Avenue,restaurant
+2026-09-23,new-york,Manhattan,Yume Ga Arukara,5 Avenue,restaurant
+2026-09-23,new-york,Queens,Alidoro / Dunkin',Blvd Terminal 8,restaurant
+2026-09-23,new-york,Queens,Bklyn Blend (In Front Of Gate 12),Central Terminal Area,restaurant
+2026-09-23,new-york,Queens,Black Tap Bar Concourse C Gate 34,Jfk Intl Airport,restaurant
+2026-09-23,new-york,Queens,La Ruta Del Taco Cantina,Wyckoff Avenue,restaurant
+2026-09-23,new-york,Staten Island,Dunkin,Victory Boulevard,coffee shop
+2026-09-23,san-antonio,New Braunfels,Sip 'N Putt,Watson Lane,bar
+2026-09-22,austin,Austin,Fresa's Chicken,E 51st St,restaurant
+2026-09-22,austin,Pflugerville,Himalayan Flavor,Grand Ave Pkwy Suite 208,bar
+2026-09-22,dallas-fort-worth,Fort Worth,Jackie O's - Diablo's Cantina,S Jennings St,bar
+2026-09-22,dallas-fort-worth,Grand Prairie,Bubba's 33,S Highway 161,restaurant
+2026-09-22,houston,Houston,Urban Social Lounge,Richmond Ave,bar
+2026-09-22,houston,Humble,Island Vibes Daiquiris To Go,Farm to Market 1960 Bypass,restaurant
+2026-09-22,los-angeles,Monterey Park,Daikokuya Koyama,N Atlantic Blvd,restaurant
+2026-09-22,new-york,Brooklyn,African Pride Restaurant,Eastern Parkway,restaurant
+2026-09-22,new-york,Brooklyn,Theatre For A New Audience,Ashland Place,restaurant
+2026-09-22,new-york,Manhattan,Above Nyc Rooftop,West   36 Street,restaurant
+2026-09-22,new-york,Manhattan,Essen,8 Avenue,restaurant
+2026-09-22,new-york,Manhattan,Piccolo Morini,Kenmare Street,restaurant
+2026-09-22,new-york,Manhattan,Traditas Pizza,Broadway,restaurant
+2026-09-22,new-york,New York,Artemis,3rd Ave,restaurant
+2026-09-22,new-york,Queens,Butterflies Chinese & Thai Cuisine,Guy R Brewer Boulevard,restaurant
+2026-09-22,new-york,Queens,Hot Peppers,Jackson Avenue,restaurant
+2026-09-22,new-york,Queens,Kabab King,37 Road,restaurant
+2026-09-22,new-york,Queens,Li Spicy Noodle,Main Street,restaurant
+2026-09-22,new-york,Queens,Naresh's Essequibo Cuisine,Liberty Avenue,restaurant
+2026-09-22,new-york,Queens,Spicy Moon,Pearson Street,restaurant
+2026-09-22,new-york,Queens,Taxi Cafe,Bldg 187 Central Taxi Hold Lot,restaurant
+2026-09-22,new-york,Queens,The Green Lic,36 Avenue,restaurant
+2026-09-22,san-antonio,San Antonio,Birrieria Y Taqueria Ay Arandas,Pleasanton Road,restaurant
+2026-09-22,waco-temple,Holland,Guy's Quick Stop,S FRANKLIN St,restaurant
+2026-09-22,waco-temple,Killeen,The Cave,E Stan Schlueter Loop Suite 208,restaurant
+2026-09-21,austin,Wimberley,Casa V Wine Society,Oldham St. Bldg 300,restaurant
+2026-09-21,dallas-fort-worth,Dallas,La Trompisa,Trinity Mills Rd Ste 122,restaurant
+2026-09-21,dallas-fort-worth,Fort Worth,Oliva Italian Eatery,Timberland Blvd,bar
+2026-09-21,dallas-fort-worth,Northlake,Chef Lin's Asian Kitchen,Robson Ranch Rd,restaurant
+2026-09-21,houston,Conroe,La Palma Mexicana,N Frazier St,bar
+2026-09-21,houston,Katy,Lemon Twist Bartending Services,Julie Marie Lane Suite 701,bar
+2026-09-21,houston,Wallis,Blessington Farm,Chisolm Trail,restaurant
+2026-09-21,new-york,Brooklyn,Chapiyork 2,5 Avenue,restaurant
+2026-09-21,new-york,Brooklyn,Grand Royal Palace,7 Avenue,restaurant
+2026-09-21,new-york,Brooklyn,Loft Story,Manhattan Ave,restaurant
+2026-09-21,new-york,Brooklyn,Misha,Coney Island Ave,restaurant
+2026-09-21,new-york,Brooklyn,Tony's Vespa Pizza,Bergen Street,restaurant
+2026-09-21,new-york,Brooklyn,Weng Ji,7 Avenue,restaurant
+2026-09-21,new-york,Manhattan,The Coppola Cafe,West    4 Street,coffee shop
+2026-09-21,new-york,New York,Sandbox VR,7th Ave,bar
+2026-09-21,new-york,New York,The Kingsbury,Eldridge St,restaurant
+2026-09-21,new-york,Queens,Arefin's Tea Mania New York,101 Avenue,coffee shop
+2026-09-21,new-york,Queens,Junko Sushi,Broadway,restaurant
+2026-09-21,new-york,Queens,Murray's Cheese,Thomson Avenue,restaurant
+2026-09-21,new-york,Queens,Nook Coffee,31 Avenue,coffee shop
+2026-09-21,new-york,Queens,Qamaria Yemeni Coffee,Ditmars Boulevard,coffee shop
+2026-09-20,new-york,Brooklyn,Jolene Sound Room,Bedford Avenue,restaurant
