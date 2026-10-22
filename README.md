@@ -33,6 +33,16 @@ This dataset is published by [PourWire](https://pourwire.com/?utm_source=github&
 
 Public records from the Texas Alcoholic Beverage Commission (TABC), the New York State Liquor Authority, NYC permit data, and the California Department of Alcoholic Beverage Control. Chains, hotels, gas stations, grocery and liquor stores are filtered out, so the list is mostly independent restaurants and bars.
 
+## How long does a liquor license take?
+
+PourWire also tracks how long these applications wait before the state acts on them. As of October 2026:
+
+- **Texas (TABC):** median 24 days from application to issued license. [Texas TABC pending applications guide](https://pourwire.com/texas/tabc-pending-applications-guide?utm_source=github&utm_medium=dataset)
+- **New York (SLA):** restaurant and bar applications pending a median of about 4 months (118 days), a quarter over 212 days. [NY SLA pending applications guide](https://pourwire.com/new-york/sla-pending-applications-guide?utm_source=github&utm_medium=dataset)
+- **California (ABC, Los Angeles):** median about 2 months (67 days) from application to issued license. [LA ABC pending applications guide](https://pourwire.com/los-angeles/abc-pending-applications-guide?utm_source=github&utm_medium=dataset)
+
+Each guide also explains how to look up an application and what the license classes mean.
+
 ## Want the full record?
 
 The live lists on pourwire.com add the full address, license type, filing status and, where available, the owner contact, and they update every day. There is a free sample for every metro: [pourwire.com](https://pourwire.com/?utm_source=github&utm_medium=dataset).
