@@ -1,17 +1,23 @@
 filed,metro,city,name,street,type
+2026-10-20,los-angeles,Downey,Maria's Bar & Grill Maria's Bar & Grill Llc 13230-13232 1,1/2 Woodruff Ave,restaurant
+2026-10-20,new-york,Brooklyn,180 Grammi Nyc,Graham Ave,restaurant
+2026-10-20,new-york,Staten Island,Angelina's Kitchen,Marsh Ave Ste 1806,restaurant
+2026-10-20,new-york,New York,Arte Museum New York,Chelsea Piers,bar
+2026-10-20,new-york,New York,Bukhara Grill,W 58th St,restaurant
+2026-10-20,new-york,Brooklyn,Lab 148,Tompkins Ave,bar
+2026-10-20,new-york,New York,Little Italy Pizza,8th Ave,bar
+2026-10-20,new-york,New York,NoMad Clubhouse,5th Ave,restaurant
 2026-10-19,austin,Austin,The Alright,Manor Rd,restaurant
-2026-10-19,dallas-fort-worth,Dallas,The Taco Spot,Preston Rd,restaurant
 2026-10-19,dallas-fort-worth,Carrollton,Zhangliang Malatang,W Frankford Rd,restaurant
 2026-10-19,houston,Houston,Ales & Wines Social,Westheimer Rd Space A1352,restaurant
-2026-10-19,houston,Houston,Clutch- Sugar Room,St Emanuel St,bar
+2026-10-19,houston,Houston,Clutch- Sugar Room,St Emanuel St,restaurant
 2026-10-19,houston,Houston,Urban Street Market,Texas St Suite A,restaurant
 2026-10-19,houston,Houston,Victory Food Store,S Victory Dr,restaurant
 2026-10-19,new-york,New York,Harlem Shake,Amsterdam Ave,bar
-2026-10-19,new-york,New York,Slate Cafe,Broadway,restaurant
 2026-10-19,new-york,New York,Szechuan Gourmet,W 105th St,restaurant
 2026-10-19,new-york,New York,Uka Omakase,W 22nd St,restaurant
 2026-10-16,dallas-fort-worth,Fort Worth,Fahrenheit,Currie St,bar
-2026-10-16,dallas-fort-worth,Plano,Kimiya Japanese Cuisine,N Central Expy,bar
+2026-10-16,dallas-fort-worth,Plano,Kimiya Japanese Cuisine,N Central Expy,restaurant
 2026-10-16,houston,Houston,El Rinconcito Latino,Telephone Rd,bar
 2026-10-16,houston,Waller,Restaurant El Tejas Mexican Bar & Grill #4,Highway 290 Business,restaurant
 2026-10-16,houston,Houston,The Phoenix On Westheimer,Westheimer Rd,bar
@@ -24,14 +30,14 @@ filed,metro,city,name,street,type
 2026-10-15,houston,Katy,Casa Fuego Latin Fusion,Katy Fort Bend Rd,restaurant
 2026-10-15,houston,Houston,Ductwork Houston,St Emanuel St,bar
 2026-10-15,new-york,New York,Rudy's Bar & Grill,9th Ave,bar
-2026-10-15,san-antonio,San Antonio,Taqueria Data Point,Canyon Golf Rd,bar
+2026-10-15,san-antonio,San Antonio,Taqueria Data Point,Canyon Golf Rd,restaurant
 2026-10-14,dallas-fort-worth,Carrollton,De Phosho,Hwy 121 Ste 228,restaurant
 2026-10-14,los-angeles,Woodland Hills,The Variel Of Woodland Hills,Variel Ave,restaurant
 2026-10-13,dallas-fort-worth,Dallas,Ebesu Sushi&Bar,N Haskell Ave,restaurant
 2026-10-13,dallas-fort-worth,Garland,Salon Monte Carlo,S Jupiter Rd,restaurant
-2026-10-13,dallas-fort-worth,Frisco,Yummy Crab,Stonebrook Pkwy,restaurant
+2026-10-13,dallas-fort-worth,Frisco,Yummy Crab,Stonebrook Pkwy,bar
 2026-10-13,houston,Montgomery,Azul Cocktail Lounge,W FM 1097 Rd,bar
-2026-10-13,houston,Houston,Ilmejung Dokdo,Long Point Rd,restaurant
+2026-10-13,houston,Houston,Ilmejung Dokdo,Long Point Rd,bar
 2026-10-13,houston,Houston,Juju Cafe & Bar,Briar Ridge Dr,restaurant
 2026-10-13,houston,Pasadena,Panthers 47,Fairmont Pkwy,restaurant
 2026-10-13,houston,Houston,Tacos Frontera,Katy Fwy,bar
@@ -57,16 +63,16 @@ filed,metro,city,name,street,type
 2026-10-08,new-york,Brooklyn,Sesilya,5th Ave,restaurant
 2026-10-07,austin,Austin,It's Italian Cucina,S Lamar Blvd,restaurant
 2026-10-07,austin,Austin,Mama Hono,E Riverside Dr suite H6,restaurant
-2026-10-07,austin,Pflugerville,Primetime Social Sports Bar & Grill,Fm1825,restaurant
+2026-10-07,austin,Pflugerville,Primetime Social Sports Bar & Grill,Fm1825,bar
 2026-10-07,austin,Austin,Sakura Sushi And Bar,Us-290,restaurant
 2026-10-07,new-york,Staten Island,Tavolina,26 28 Jefferson Blvd,restaurant
 2026-10-07,san-antonio,San Antonio,El Gallo De Oro Grill & Bar,South Flores St,bar
 2026-10-07,san-antonio,San Antonio,Sonterra Beverage,Sonterra Pl,bar
 2026-10-06,dallas-fort-worth,Irving,Bar Louie 1707,Las Colinas Blvd. W.,restaurant
-2026-10-06,dallas-fort-worth,Allen,Papa Lopez Mexican Cantina,State Hwy 121,restaurant
+2026-10-06,dallas-fort-worth,Allen,Papa Lopez Mexican Cantina,State Hwy 121,bar
 2026-10-06,dallas-fort-worth,The Colony,Turbo Coffee Kitchen Wine,Windhaven Pkwy,restaurant
 2026-10-06,dallas-fort-worth,Dallas,W Davis Street Market,W Davis St,restaurant
-2026-10-06,houston,The Woodlands,Bar Louie 1201,Waterway Ave,bar
+2026-10-06,houston,The Woodlands,Bar Louie 1201,Waterway Ave,restaurant
 2026-10-06,houston,Cypress,Roadstar #9,Fry RD Ste A,restaurant
 2026-10-06,houston,Houston,Rose Gold Gentlemen's Club,S Texas 6,bar
 2026-10-06,houston,Baytown,Vida Mariscos,East Fwy,bar
@@ -81,18 +87,18 @@ filed,metro,city,name,street,type
 2026-10-03,dallas-fort-worth,Allen,Mexican Bar Company,Waverly Dr,bar
 2026-10-02,dallas-fort-worth,Bedford,Backlot Car Guy's Tacos & More,Central Dr Ste 115,restaurant
 2026-10-02,dallas-fort-worth,Dallas,Padres Cocina,W. Wheatland Rd,bar
-2026-10-02,dallas-fort-worth,Dallas,Times Ten Cellars,Prospect Ave including 2018 Kidwell St,bar
+2026-10-02,dallas-fort-worth,Dallas,Times Ten Cellars,Prospect Ave including 2018 Kidwell St,restaurant
 2026-10-02,new-york,Brooklyn,Sofra,5th Ave,restaurant
 2026-10-01,dallas-fort-worth,Ponder,Los Compadres Cantina,N Fm 156,bar
 2026-10-01,dallas-fort-worth,Dallas,Miya Chinese,Garland Road Suite 383 Building F,bar
-2026-10-01,houston,New Caney,East Montgomery County Convention Center,Valley Ranch Pkwy,bar
+2026-10-01,houston,New Caney,East Montgomery County Convention Center,Valley Ranch Pkwy,restaurant
 2026-10-01,houston,Houston,Johnny's,FM 529 rd,restaurant
 2026-10-01,houston,Conroe,Nana Soul Food,N Frazier St,bar
 2026-10-01,new-york,Glendale,Isogood,Myrtle Ave,bar
 2026-09-30,austin,Austin,Deft Pies,Ranch Rd 620 N,bar
 2026-09-30,austin,Pflugerville,New Vibes - Pflugerville (Mod Pizza),Limestone Commercial Dr,restaurant
 2026-09-30,dallas-fort-worth,Plano,Ivory,Dallas Pkwy,bar
-2026-09-30,dallas-fort-worth,Carrollton,Soomi Kitchen,Mac Arthur Dr,restaurant
+2026-09-30,dallas-fort-worth,Carrollton,Soomi Kitchen,Mac Arthur Dr,bar
 2026-09-30,san-antonio,San Antonio,Broken Egg Cafe,Bandera Rd Ste 105,bar
 2026-09-30,san-antonio,Bulverde,Vine In The Village,Bulverde Rd,restaurant
 2026-09-30,waco-temple,Buckholts,Oak Club,N Fm 486,restaurant
@@ -138,7 +144,7 @@ filed,metro,city,name,street,type
 2026-09-24,austin,Austin,Glou Glou Eastside Terrace,Allen Street,restaurant
 2026-09-24,austin,Kyle,The Toasted Yolk Cafe,Heroes Memorial Dr,restaurant
 2026-09-24,dallas-fort-worth,White Settlement,Arroyo Authentic Mexican Food,S Cherry Lane,bar
-2026-09-24,dallas-fort-worth,Mckinney,Ghazal Lounge,S Custer Rd Ste 1110,restaurant
+2026-09-24,dallas-fort-worth,Mckinney,Ghazal Lounge,S Custer Rd Ste 1110,bar
 2026-09-24,dallas-fort-worth,Ft Worth,Murray's Irish Pub,South Main Street,bar
 2026-09-24,dallas-fort-worth,The Colony,The Chefs Grind,Windhaven Pkwy,bar
 2026-09-24,houston,Spring,Backyard Cantina,Main St,restaurant
@@ -154,7 +160,7 @@ filed,metro,city,name,street,type
 2026-09-23,houston,Sugar Land,Suteki Bbq Steakhouse,Southwest Fwy,bar
 2026-09-23,houston,Conroe,The Whistlestop Cafe,Interstate 45 S,bar
 2026-09-23,san-antonio,New Braunfels,Sip 'N Putt,Watson Lane,bar
-2026-09-22,austin,Austin,Fresa's Chicken,E 51st St,bar
+2026-09-22,austin,Austin,Fresa's Chicken,E 51st St,restaurant
 2026-09-22,austin,Pflugerville,Himalayan Flavor,Grand Ave Pkwy Suite 208,bar
 2026-09-22,dallas-fort-worth,Fort Worth,Jackie O's - Diablo's Cantina,S Jennings St,bar
 2026-09-22,houston,Humble,Island Vibes Daiquiris To Go,Farm to Market 1960 Bypass,restaurant
@@ -164,14 +170,3 @@ filed,metro,city,name,street,type
 2026-09-22,san-antonio,San Antonio,Birrieria Y Taqueria Ay Arandas,Pleasanton Road,restaurant
 2026-09-22,waco-temple,Holland,Guy's Quick Stop,S FRANKLIN St,restaurant
 2026-09-22,waco-temple,Killeen,The Cave,E Stan Schlueter Loop Suite 208,restaurant
-2026-09-21,austin,Wimberley,Casa V Wine Society,Oldham St. Bldg 300,restaurant
-2026-09-21,dallas-fort-worth,Northlake,Chef Lin's Asian Kitchen,Robson Ranch Rd,restaurant
-2026-09-21,dallas-fort-worth,Dallas,La Trompisa,Trinity Mills Rd Ste 122,restaurant
-2026-09-21,dallas-fort-worth,Fort Worth,Oliva Italian Eatery,Timberland Blvd,bar
-2026-09-21,houston,Wallis,Blessington Farm,Chisolm Trail,restaurant
-2026-09-21,houston,Conroe,La Palma Mexicana,N Frazier St,bar
-2026-09-21,houston,Katy,Lemon Twist Bartending Services,Julie Marie Lane Suite 701,bar
-2026-09-21,new-york,Brooklyn,Loft Story,Manhattan Ave,restaurant
-2026-09-21,new-york,Brooklyn,Misha,Coney Island Ave,restaurant
-2026-09-21,new-york,New York,Sandbox VR,7th Ave,bar
-2026-09-21,new-york,New York,The Kingsbury,Eldridge St,restaurant

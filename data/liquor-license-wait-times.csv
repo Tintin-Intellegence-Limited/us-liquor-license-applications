@@ -1,5 +1,5 @@
 state,agency,area,measure,median_days,middle_half_days,sample_size,as_of,source
-TX,Texas Alcoholic Beverage Commission (TABC),Houston; Dallas-Fort Worth; Austin; San Antonio; Waco-Temple,application to issued (MB and BG permits filed since 2026-06),24,18-34,144,2026-10-21,https://pourwire.com/texas/tabc-pending-applications-guide
-NY,New York State Liquor Authority (SLA),New York City,days pending so far (restaurant and bar applications still pending),118,,920,2026-10-21,https://pourwire.com/new-york/sla-pending-applications-guide
-NY,New York State Liquor Authority (SLA),New York City,application to issued (tracked since 2026-06),105,,25,2026-10-21,https://pourwire.com/new-york/sla-pending-applications-guide
-CA,California Department of Alcoholic Beverage Control (ABC),Los Angeles County,application to issued (tracked since 2026-07),67,54-72,23,2026-10-21,https://pourwire.com/los-angeles/abc-pending-applications-guide
+TX,Texas Alcoholic Beverage Commission (TABC),Houston; Dallas-Fort Worth; Austin; San Antonio; Waco-Temple,application to issued (MB and BG permits filed since June 2026),24,18-34,144,2026-10-19,https://pourwire.com/texas/tabc-pending-applications-guide
+NY,New York State Liquor Authority (SLA),New York City,days pending so far (restaurant and bar applications still pending),118,62-212,920,2026-10-21,https://pourwire.com/new-york/sla-pending-applications-guide
+NY,New York State Liquor Authority (SLA),New York City,application to issued (tracked since June 2026),105,,25,2026-10-21,https://pourwire.com/new-york/sla-pending-applications-guide
+CA,California Department of Alcoholic Beverage Control (ABC),Los Angeles County,application to issued (tracked since July 2026),67,54-72,23,2026-10-21,https://pourwire.com/los-angeles/abc-pending-applications-guide
