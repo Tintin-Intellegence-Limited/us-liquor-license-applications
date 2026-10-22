@@ -29,6 +29,8 @@ This dataset is published by [PourWire](https://pourwire.com/?utm_source=github&
 | street | Street name (house numbers removed) |
 | type | bar, restaurant or coffee shop |
 
+`data/liquor-license-wait-times.csv`: how long restaurant and bar liquor license applications take in Texas, New York City and Los Angeles (median days, sample size, as-of date, source guide). See the section below.
+
 ## Sources
 
 Public records from the Texas Alcoholic Beverage Commission (TABC), the New York State Liquor Authority, NYC permit data, and the California Department of Alcoholic Beverage Control. Chains, hotels, gas stations, grocery and liquor stores are filtered out, so the list is mostly independent restaurants and bars.
