@@ -45,6 +45,21 @@ PourWire also tracks how long these applications wait before the state acts on t
 
 Each guide also explains how to look up an application and what the license classes mean.
 
+## Free JSON API
+
+The same public list is available as JSON, no key or signup needed:
+
+```
+GET https://pourwire.com/api/public/openings?metro=new-york
+```
+
+- `metro` (required): `los-angeles`, `new-york`, `austin`, `dallas-fort-worth`, `houston`, `san-antonio` or `waco-temple`
+- `status` (optional): `new`, `in_buildout` or `approved`
+- `limit` (optional): 1 to 200, default 100
+- `ref` (optional): your app's name, added as `utm_source` on the returned links
+
+Each opening has `business_name`, `legal_name`, `venue_type`, `street`, `city`, `zip`, `estimated_opening`, `status`, `confidence`, `first_filed`, a `filings` list (`source`, `type`, `date`, `license_type`) and a `page_url`. Responses are cached for an hour; please keep it to a few requests per metro per day.
+
 ## Want the full record?
 
 The live lists on pourwire.com add the full address, license type, filing status and, where available, the owner contact, and they update every day. There is a free sample for every metro: [pourwire.com](https://pourwire.com/?utm_source=github&utm_medium=dataset).
