@@ -4,16 +4,16 @@ A free, machine-readable list of restaurants and bars that recently filed for a 
 
 This dataset is published by [PourWire](https://pourwire.com/?utm_source=github&utm_medium=dataset), which tracks these filings every day for insurance agents, POS resellers, equipment suppliers and food distributors who sell to new venues.
 
-**Coverage:** 171 filings from 2026-09-22 to 2026-10-20.
+**Coverage:** 181 filings from 2026-09-26 to 2026-10-23.
 
 | Metro | Filings | Live list (updated daily) |
 |---|---|---|
-| Houston | 50 | [pourwire.com/houston/liquor-license-applications](https://pourwire.com/houston/liquor-license-applications?utm_source=github&utm_medium=dataset) |
-| Dallas-Fort Worth | 38 | [pourwire.com/dallas-fort-worth/liquor-license-applications](https://pourwire.com/dallas-fort-worth/liquor-license-applications?utm_source=github&utm_medium=dataset) |
-| New York City | 32 | [pourwire.com/new-york/liquor-license-applications](https://pourwire.com/new-york/liquor-license-applications?utm_source=github&utm_medium=dataset) |
-| Austin | 22 | [pourwire.com/austin/liquor-license-applications](https://pourwire.com/austin/liquor-license-applications?utm_source=github&utm_medium=dataset) |
-| San Antonio | 18 | [pourwire.com/san-antonio/liquor-license-applications](https://pourwire.com/san-antonio/liquor-license-applications?utm_source=github&utm_medium=dataset) |
-| Los Angeles | 6 | [pourwire.com/los-angeles/liquor-license-applications](https://pourwire.com/los-angeles/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| New York City | 45 | [pourwire.com/new-york/liquor-license-applications](https://pourwire.com/new-york/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| Houston | 44 | [pourwire.com/houston/liquor-license-applications](https://pourwire.com/houston/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| Dallas-Fort Worth | 36 | [pourwire.com/dallas-fort-worth/liquor-license-applications](https://pourwire.com/dallas-fort-worth/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| San Antonio | 24 | [pourwire.com/san-antonio/liquor-license-applications](https://pourwire.com/san-antonio/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| Austin | 19 | [pourwire.com/austin/liquor-license-applications](https://pourwire.com/austin/liquor-license-applications?utm_source=github&utm_medium=dataset) |
+| Los Angeles | 8 | [pourwire.com/los-angeles/liquor-license-applications](https://pourwire.com/los-angeles/liquor-license-applications?utm_source=github&utm_medium=dataset) |
 | Waco-Temple | 5 | [pourwire.com/waco-temple/liquor-license-applications](https://pourwire.com/waco-temple/liquor-license-applications?utm_source=github&utm_medium=dataset) |
 
 ## File
